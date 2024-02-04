@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "548983281623",
+    "firebase_url": "https://rekayasainternet.firebaseio.com",
+    "project_id": "rekayasainternet",
+    "storage_bucket": "rekayasainternet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:548983281623:android:9222379e9146488eb31d92",
+        "android_client_info": {
+          "package_name": "com.example.smartpolutantracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "548983281623-3s5fadfcdsv1cmj66gt4buqlln945gsj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smartpolutantracker",
+            "certificate_hash": "a1e3adb1674d7aed1c04f8cd68fc41658b60ce02"
+          }
+        },
+        {
+          "client_id": "548983281623-a9jprm2tg0s73rdafo5o2uc41m6v2073.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smartpolutantracker",
+            "certificate_hash": "66f2516a9a4c7e1a5366621842693a4cb642b36b"
+          }
+        },
+        {
+          "client_id": "548983281623-nu7eliair5dshqai3r8npa1uu3c47c2f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAipITawne2QmooIhTgaX4sqs4T2ZHeMys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "548983281623-nu7eliair5dshqai3r8npa1uu3c47c2f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

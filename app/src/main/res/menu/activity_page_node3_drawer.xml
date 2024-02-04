@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="@string/menu_home" />
+        <item
+            android:id="@+id/nav_pagenode1"
+            android:icon="@drawable/ic_laptop_black_24dp"
+            android:title="@string/titlenode1" />
+        <item
+            android:id="@+id/nav_pagenode2"
+            android:icon="@drawable/ic_laptop_black_24dp"
+            android:title="@string/titlenode2" />
+        <item
+            android:id="@+id/nav_pagenode3"
+            android:icon="@drawable/ic_laptop_black_24dp"
+            android:title="@string/titlenode3" />
+        <item
+            android:id="@+id/nav_pagenode4"
+            android:icon="@drawable/ic_laptop_black_24dp"
+            android:title="@string/titlenode4" />
+        <item
+            android:id="@+id/nav_pagenode5"
+            android:icon="@drawable/ic_laptop_black_24dp"
+            android:title="@string/titlenode5" />
+    </group>
+
+</menu>

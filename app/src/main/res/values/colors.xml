@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2196F3</color>
+    <color name="colorPrimaryDark">#0061C2</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="volt">#2196F3</color>
+    <color name="cure">#C4B10D</color>
+    <color name="pwr">#FF9800</color>
+    <color name="on">#F50758</color>
+    <color name="off">#2196F3</color>
+    <color name="text">#FFFFFF</color>
+</resources>
